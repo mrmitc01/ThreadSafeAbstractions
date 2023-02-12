@@ -1,6 +1,6 @@
 ThreadSafeAbstractions
 
-The goal of this project is to implement a thread-safe, unbounded priority queue and to 
+The goal of this project is to implement a thread-safe, unbounded priority queue and to build a thread pool using the priority queue implementation.
 
 The purposes of each of the following files are stated below:
 
